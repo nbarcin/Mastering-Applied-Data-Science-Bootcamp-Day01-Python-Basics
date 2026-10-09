@@ -24,4 +24,3 @@ Python · Pandas · Seaborn · gTTS · IPython · Jupyter Notebook
 Gained hands-on experience with Python programming, data ingestion, exploratory data analysis (EDA), basic data cleaning, visualization, and text-to-speech processing.
 
 All project code and outputs are available in this repository.
-
