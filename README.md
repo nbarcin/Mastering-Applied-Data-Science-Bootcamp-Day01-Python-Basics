@@ -1,5 +1,4 @@
-# Mastering-Applied-Data-Science-Bootcamp-Day01-Python-Basics
-## Day 01 – Python Fundamentals & Data Handling
+# Day 01 – Python Fundamentals & Data Handling
 
 **Mastering Applied Data Science Bootcamp**
 
